@@ -1,2 +1,2 @@
 #!/bin/bas
-ls -la -p -m -v
+ls -pamv
