@@ -1,2 +1,2 @@
 #!/bin/bas
-ls -pamv
+ls -amvp
