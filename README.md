@@ -1,1 +1,1 @@
-im learning about Shell, I/O Redirections and filters
+im learning about scripting in shell
