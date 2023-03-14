@@ -1,1 +1,1 @@
-I am learning about system engineering devops from scratch, this should be fun!
+im learning about Shell, I/O Redirections and filters
